@@ -1,0 +1,20 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcarchive
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Swift Package Manager
+.build/
+.swiftpm/
